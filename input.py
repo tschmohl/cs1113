@@ -1,2 +1,2 @@
-person = raw_input('Enter your name: ')
-print('Hello ' + person + '= !')
+person = input('Enter your name: ')
+print('Hello ' + person + '!')
